@@ -1,4 +1,4 @@
-# **LAPORAN PRAKTIKUM**
+# **LAPORAN PRAKTIKUM 6**
 
 ## **Pengantar Pemrograman – Lab 6**
 

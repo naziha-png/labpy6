@@ -4,11 +4,11 @@
 
 ### **Sub Rutin / Fungsi**
 
-**Nama** : Naziha Raiqi Aribino
-**Kelas** : TI.25.A2
-**NIM** : 312510232
-**Mata Kuliah** : Pengantar Pemrograman
-**Praktikum** : Lab 6 — Sub Rutin / Fungsi
+**Nama** : Naziha Raiqi Aribino<br>
+**Kelas** : TI.25.A2<br>
+**NIM** : 312510232<br>
+**Mata Kuliah** : Pengantar Pemrograman<br>
+**Praktikum** : Lab 6 — Sub Rutin / Fungsi<br>
 
 ---
 
